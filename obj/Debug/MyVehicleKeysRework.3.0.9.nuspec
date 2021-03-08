@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyVehicleKeysRework</id>
+    <version>3.0.9+22442c9</version>
+    <authors>MyVehicleKeysRework</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">EUPL-1.2</license>
+    <licenseUrl>https://licenses.nuget.org/EUPL-1.2</licenseUrl>
+    <description>Package Description</description>
+    <tags>openmod openmod-plugin unturned</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="OpenMod.Unturned" version="3.0.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Copia de seguridad\Plugins\OpenModPlugins\MyVehicleKeysRework\bin\Debug\net461\MyVehicleKeysRework.dll" target="lib\net461\MyVehicleKeysRework.dll" />
+  </files>
+</package>

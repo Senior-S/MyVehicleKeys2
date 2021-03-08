@@ -1,0 +1,3 @@
+configuration:
+  keys_message_color: "blue"
+  max_keys: 3
