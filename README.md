@@ -1,6 +1,8 @@
 # MyVehicleKeys2
 Now you can add a complete system of vehicle keys to your server.
 
+Install command: `openmod install SS.MyVehicleKeys2`
+
 Commands: Command / Syntax / Permission / Use<br> 
 - keys / none / SS.MyVehiceKeys2:keys / Get a list of all of your keys.<br>
 - findvehicle / vehicle id / SS.MyVehicleKeys2:findvehicle / Set the position of your vehicle in the map.<br>
